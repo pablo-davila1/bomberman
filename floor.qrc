@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pisito">
+        <file>piso.png</file>
+    </qresource>
+</RCC>

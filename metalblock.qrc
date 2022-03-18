@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/block">
+        <file>hierro.png</file>
+    </qresource>
+</RCC>
